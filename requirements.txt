@@ -2,11 +2,3 @@ aiogram==3.15.0
 pillow==10.4.0
 moviepy==1.0.3
 numpy==1.26.4
-imageio==2.34.0
-imageio-ffmpeg==0.4.9
-decorator==4.4.2
-tqdm
-scipy
-pydub
-audiofile
-opencv-python-headless==4.9.0.80
