@@ -15,7 +15,6 @@ RENDER_TIMEOUT = 300
 MAX_FILE_SIZE = 200_000
 MAX_TEXT_LEN = 4000
 
---- ИЗМЕНЕНИЕ: Порт берётся из переменной окружения Koyeb ---
 PORT = int(os.environ.get("PORT", 7860))
 
 class _Health(BaseHTTPRequestHandler):
