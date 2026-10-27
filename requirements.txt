@@ -1,0 +1,6 @@
+```text
+aiogram==3.15.0
+pillow==10.4.0
+moviepy==1.0.3
+numpy==1.26.4
+```
